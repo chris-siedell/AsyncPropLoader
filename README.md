@@ -1,6 +1,11 @@
 # AsyncPropLoader
 A loader for the Parallax Propeller P8X32A microcontroller.
 
+This project is in active development and I expect API breaking changes May-August 2017.
+
+I intend to improve the error reporting mechanism to provide more informative, actionable error messages.
+
+Full documentation (including internal/private stuff):  
 http://siedell.com/projects/AsyncPropLoader/docs/full/
 
 Example usage:
