@@ -8,6 +8,10 @@ I intend to improve the error reporting mechanism to provide more informative, a
 Full documentation (including internal/private stuff):  
 http://siedell.com/projects/AsyncPropLoader/docs/full/
 
+Dependencies:  
+https://github.com/wjwwood/serial  
+https://github.com/chris-siedell/HSerial
+
 Example usage:
 ```cpp
 
